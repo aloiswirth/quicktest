@@ -1,9 +1,24 @@
-# Quicktest
+# Project name here
+> Summary description here.
 
-commit 2 
 
-commit 3 
+This file will become your README and also the index of your documentation.
 
-commit 4
+## Install
 
-test if the update will be ok in github.com 
+`pip install your_project_name`
+
+## How to use
+
+Fill me in please! Don't forget code examples:
+
+```
+1+1
+```
+
+
+
+
+    2
+
+
